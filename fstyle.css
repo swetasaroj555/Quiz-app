@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 'poppins' , sans-serif;
+    box-sizing: border-box;
+    
+    
+}
+.main{
+    border: 2px solid purple ;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 500px;
+    margin-top: 20px;
+    background-color: bisque;
+    
+}
+
+.a{
+    margin-left: 40%;
+    margin-top: 20px;
+    font-size: medium;
+   
+    
+}
+.b{
+    margin-left: 38%;
+
+}
+.c{
+    margin-left: 36%;
+    font-size: xx-large;
+}
+.d{
+    margin-left: 31%;
+}
+.e{
+    margin-left: 26%;
+   
+    
+}
+.f{
+    margin-left:31% ;
+    font-size: larger;
+    font-style: inherit;
+}
+.g{
+    margin-left: 35%;
+    font-size: xx-large;
+    color: rgb(32, 167, 167);
+
+    
+}
+.h{
+    margin-left: 15%;
+    margin-top: 15px;
+}
+
+    
+    
+
+}
+.i{
+    margin-left: 47%; 
+    margin-bottom: 70px;
+    
+
+}
+.j{
+    margin-left: 45%; 
+    
+    
+
+}
+.k{
+    margin-left: 35%; 
+    
+    
+
+}
+
